@@ -1,0 +1,9 @@
+1. **Studies**
+  * ML
+  * Git
+  * NetSec
+  * DL
+2. **Chill**
+  * Project
+  * Netflix
+  * 13RW
